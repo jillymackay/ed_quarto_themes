@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "ed_template.html#quarto",
+    "href": "ed_template.html#quarto",
+    "title": "A University of Edinburgh Quarto Template",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "ed_template.html#bullets",
+    "href": "ed_template.html#bullets",
+    "title": "A University of Edinburgh Quarto Template",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+  },
+  {
+    "objectID": "ed_template.html#code",
+    "href": "ed_template.html#code",
+    "title": "A University of Edinburgh Quarto Template",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
+  }
+]
