@@ -1,23 +1,30 @@
 [
   {
-    "objectID": "ed_template.html#quarto",
-    "href": "ed_template.html#quarto",
+    "objectID": "ed_template.html#why-use-quarto",
+    "href": "ed_template.html#why-use-quarto",
     "title": "A University of Edinburgh Quarto Template",
-    "section": "Quarto",
-    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+    "section": "Why use Quarto?",
+    "text": "Why use Quarto?\nQuarto enables you to weave together content and executable code into a finished presentation.\nTo learn more about Quarto presentations see https://quarto.org/docs/presentations/."
   },
   {
-    "objectID": "ed_template.html#bullets",
-    "href": "ed_template.html#bullets",
+    "objectID": "ed_template.html#and-important-things",
+    "href": "ed_template.html#and-important-things",
     "title": "A University of Edinburgh Quarto Template",
-    "section": "Bullets",
-    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+    "section": "And important things:",
+    "text": "And important things:\n\n\nAnd citations are managed via pandoc per (the Guide 2023).\nIt’s also good to reference (Knuth 1984) for no particular reason.\n\n\n\n\n\n\nA lovely chart"
   },
   {
-    "objectID": "ed_template.html#code",
-    "href": "ed_template.html#code",
+    "objectID": "ed_template.html#and-other-stuff",
+    "href": "ed_template.html#and-other-stuff",
     "title": "A University of Edinburgh Quarto Template",
-    "section": "Code",
-    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
+    "section": "And other stuff",
+    "text": "And other stuff\n\n# like code obviously\n\n3 * 3\n\n[1] 9\n\n\n\nA footer can be overriden when needed"
+  },
+  {
+    "objectID": "ed_template.html#references",
+    "href": "ed_template.html#references",
+    "title": "A University of Edinburgh Quarto Template",
+    "section": "References",
+    "text": "References\n\n\nGuide, Quarto. 2023. Quarto Guide. posit.co. https://quarto.org/docs/guide/.\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.\n\n\n\n\n\nYour social media handles - anything you want on each slide"
   }
 ]

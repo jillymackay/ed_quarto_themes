@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+
+@import url(./fonts/league-gothic/league-gothic.css);
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Open+Sans:ital@0;1&display=swap');
+
+// fonts
+$font-family-sans-serif:  'Open Sans' !default;
+
+// colors
+$body-bg: #FFFBEB !default;
+$body-color: #041E42 !default;
+$link-color: #830065 !default;
+$selection-bg: #D50032 !default;
+
+
+// headings
+$presentation-heading-font: "Montserrat", sans-serif !default;
+$presentation-heading-color: #041E42 !default;
+
+
+
+
+// code blocks
+$code-block-border-color: #93a1a1 !default;
+
+
+
+/*-- scss:rules --*/
+
+html * {
+  color-profile: sRGB;
+  rendering-intent: auto;
+}
+
+.reveal .footer {
+ color: #830065 !important;
+
+}
