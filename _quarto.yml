@@ -1,0 +1,4 @@
+project:
+  title: "Customisable Edinburgh Quarto Theme"
+  type: website
+  output-dir: docs
